@@ -109,8 +109,8 @@
   });
 
   /**
-   * Initiate glightbox
-   */
+    Initiate glightbox;
+   
   const glightbox = GLightbox({
     selector: '.glightbox'
   });
